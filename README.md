@@ -24,7 +24,7 @@ It performs basic arithmetic operations and features a simple interface that mim
 ---
 
 ## Screenshot
-![Calculator Screenshot](aseets/images/screenshot.png)
+![Calculator Screenshot](assets/images/screenshot.png)
 
 ---
 
